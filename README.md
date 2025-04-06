@@ -7,3 +7,6 @@
 
 ### 2. Motif en Y dans les Protéines (SARS-CoV-2 Spike)
 ![Protein Y Fold](https://github.com/seb0407/Quantum-Y-Model/blob/main/images/protein_y_fold.png?raw=true)
+
+[Données périodiques](/data/periodic.csv)
+[Script Python](/scripts/generate.py)
