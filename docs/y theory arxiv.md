@@ -1,3 +1,10 @@
+---
+title: "Quantum Y-Model: A 7/9 Periodic Law"
+authors: [Votre Nom]
+categories: quant-ph
+comments: "Voir les données complètes sur https://github.com/[user]/Quantum-Y-Model"
+---
+
 # Le Code Secret des Éléments : Une Loi Quantique en 7 et 9  
 **Auteurs** : [Votre nom]  
 
