@@ -1,0 +1,7 @@
+Z,Element,Group,Y-configuration,Observations,Preuves
+1,H,G0,"3 pôles liés","Base de la vie","Abondance cosmique (NASA)"
+2,He,G+6,"1 pôle libre","Gaz inerte","Spectre He+ (CERN)"
+3,Li,G0,"3 pôles liés","Batteries","Conductivité Li-ion (Nature)"
+4,Be,G0,"3 pôles liés","Alliages légers","Résistance Be/Al (ESA)"
+6,C,G0,"3 pôles liés","Stabilité ADN","Durée de vie C-14 (PNAS)"
+(... complétez jusqu'à Z=118)
