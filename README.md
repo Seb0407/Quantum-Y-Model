@@ -10,3 +10,5 @@
 
 [Données périodiques](/data/periodic.csv)
 [Script Python](/scripts/generate.py)
+## Résultat Visuel  
+![Modèle Y](/docs/figures/y_model.png)  
