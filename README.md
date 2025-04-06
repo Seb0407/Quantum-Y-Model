@@ -11,4 +11,4 @@
 [Données périodiques](/data/periodic.csv)
 [Script Python](/scripts/generate.py)
 ## Résultat Visuel  
-![Modèle Y](/docs/figures/y_model.png)  
+![Nouveau Y Model](/docs/figures/y_model_v2.png)    
